@@ -7,3 +7,15 @@
 
 <details>
 <summary><em><strong>About me...</strong></em></summary>
+
+###
+
+```javascript
+const about = {
+  name: "Mahir Pembe",
+  code: ["HTML", "CSS", "Javascript", "Python"],
+  tools: ["Node", "Express", "React", "PostgreSQL", "MongoDB", "Git"],
+  architecture: ["REST API", "Microservices"],
+  challenge: "Dedicated to mastering the craft of programming",
+};
+```
