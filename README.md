@@ -19,3 +19,7 @@ const about = {
   challenge: "Dedicated to mastering the craft of programming",
 };
 ```
+
+<em><strong>Always open to a good conversation - feel free to reach out.</strong></em>
+
+---
