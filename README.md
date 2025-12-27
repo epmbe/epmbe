@@ -20,6 +20,6 @@ const about = {
 };
 ```
 
-<em><strong>Always open to a good conversation - feel free to reach out.</strong></em>
+<em>Always open to a good conversation.</em>
 
 ---
