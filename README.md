@@ -4,3 +4,6 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pembemahir10@gmail.com)
 [![GitHub epmbe](https://img.shields.io/github/followers/epmbe?label=follow&style=social)](https://github.com/epmbe)
+
+<details>
+<summary><em><strong>About me...</strong></em></summary>
