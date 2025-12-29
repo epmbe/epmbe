@@ -4,7 +4,8 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pembemahir10@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/epmbe?style=social)](https://github.com/epmbe)
-[![Committers.top](https://user-badge.committers.top/tanzania_public/epmbe.svg)](https://user-badge.committers.top/tanzania_public/epmbe)
+
+<!-- [![Committers.top](https://user-badge.committers.top/tanzania_public/epmbe.svg)](https://user-badge.committers.top/tanzania_public/epmbe) -->
 
 <details>
 <summary><em><strong>About me...</strong></em></summary>
