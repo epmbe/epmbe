@@ -15,8 +15,8 @@
 ```javascript
 const about = {
   name: "Mahir Pembe",
-  code: ["HTML", "CSS", "JavaScript", "SQL"],
-  tools: ["Node", "Express", "React", "PostgreSQL", "MongoDB", "Git"],
+  code: ["Python", "Bash", "SQL"],
+  tools: ["FastAPI", "Git", "PostgreSQL"],
   architecture: ["REST API", "Microservices"],
   challenge: "Dedicated to mastering the craft of programming",
 };
